@@ -1,1 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTPS}=off
 Redirect 301 https://andriydzyunyak.github.io/Kulyampa/kulyampa.html https://andriydzyunyak.github.io/Kulyampa/kuliampa.html
